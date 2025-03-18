@@ -3,13 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Software Engineer
 --------------------------
+ 
+With a growing focus on **Full-Stack Web Development**, I enjoy exploring both **frontend** and **backend** technologies while continuously sharpening my skills across design and development.
 
-I'm a passionate developer with a growing focus on both front and backend technologies, and I'm all about creating meaningful projects that solve real-world problems.
+💻 Currently, I'm diving deeper into **Next.js**, **React.js**, and **PostgreSQL**, while experimenting with design tools and creative technologies. My goal is to create seamless digital experiences from concept to deployment.
 
-* 🌍  I'm based in Singapore
-* ✉️  You can contact me at [ongmagenta@gmail.com](mailto:ongmagenta@gmail.com)
-* 🧠  I'm learning Next.js, React.js, SQL, PostgreSQL
-* 🤝  I'm open to collaborating on Freelance Projects or anything that interests me
 
 ### Skills
 
