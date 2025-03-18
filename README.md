@@ -29,7 +29,7 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 <a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" width="49%" height="50%" /></a>
 <a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" height="50%" /></a>
 <a href="https://github.com/magentaong">
-  <img src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800" width="49%"/>
 </a>
 
 
