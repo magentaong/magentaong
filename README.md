@@ -24,7 +24,7 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 
 <br><b>Frontend:</b><br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-light-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" />
@@ -35,6 +35,7 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 
 <br><b>Creative & Design:</b><br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" />
@@ -52,11 +53,7 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 
 ## 📈 GitHub Stats & Activity
 <a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /></a>
-<a href="https://github.com/magentaong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=magentaong&theme=tokyonight&hide_border=true" width="49%" /></a>
-
 <a href="https://github.com/magentaong"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=magentaong&theme=tokyonight&hide_border=true" /></a>
-
-<a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" /></a>
 
 
 ---
