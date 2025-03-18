@@ -28,7 +28,8 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 ## 📈 GitHub Stats & Activity
 <a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" width="49%" height="50%" /></a>
 <a href="https://github.com/magentaong"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" height="50%" /></a>
-<a href="http://www.github.com/magentaong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=magentaong" width="49%" /></a>
+<a href="http://www.github.com/magentaong"><img src="https://streak-stats.demolab.com/?user=magentaong&theme=tokyonight&hide_border=true" width="49%" /></a>
+
 
 
 ---
