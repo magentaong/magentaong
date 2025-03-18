@@ -15,8 +15,8 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 
 ## 🧠 Tech Stack & Tools
 
-<p align="center">
-<b>Languages:</b><br>
+
+<br><b>Languages:</b><br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
