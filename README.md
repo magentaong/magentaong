@@ -31,6 +31,8 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 <a href="https://github.com/magentaong">
   <img src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800" width="49%"/>
 </a>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=magentaong.magentaong)
+
 
 
 
