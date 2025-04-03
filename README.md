@@ -39,9 +39,7 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
     <img src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" width="49%" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=magentaong&theme=tokyonight&no-frame=true&title=Followers,Stars,Commits,Repositories,Visitors" />
-</p>
+
 
 
 
