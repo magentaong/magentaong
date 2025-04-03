@@ -33,13 +33,14 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 <a href="https://github.com/magentaong">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </a>
-<a href="https://github.com/magentaong">
+<a align = "center" href="https://github.com/magentaong">
   <img src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" width="49%" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitor_Count-{{COUNT}}-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="visitor badge"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=magentaong&theme=tokyonight&no-frame=true&title=Followers,Stars,Commits,Repositories,Visitors" />
 </p>
+
 
 
 
