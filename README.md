@@ -38,9 +38,8 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 </a>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/magentaong/count.svg" />
+  <img src="https://img.shields.io/badge/Visitor_Count-{{COUNT}}-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="visitor badge"/>
 </p>
-
 
 
 
