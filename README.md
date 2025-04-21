@@ -28,10 +28,10 @@ Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my 
 ## 📈 GitHub Stats & Activity
 
 <a href="https://github.com/magentaong">
-  <img src="https://github-readme-stats.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </a>
 <a href="https://github.com/magentaong">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </a>
 
 <p align="center">
