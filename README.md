@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate developer focused on **Full-Stack Web Development** — blending creativity, design, and logic to craft impactful digital experiences.
 
-Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my knowledge in scalable backend development. With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
+Currently trying my best and expanding my knowledge in scalable backend development. With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
 
 🛠️ **Looking for freelance projects and collaboration opportunities** 
 
