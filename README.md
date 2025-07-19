@@ -5,7 +5,7 @@ I'm a passionate developer focused on **Full-Stack Web Development** — blendin
 
 Currently exploring **Next.js**, **React.js**, **PostgreSQL**, and expanding my knowledge in scalable backend development. With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
 
-🛠️ **Looking for freelance projects and collaboration opportunities** — feel free to reach out!
+🛠️ **Looking for freelance projects and collaboration opportunities** 
 
 ---
 
