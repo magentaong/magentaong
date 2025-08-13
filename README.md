@@ -32,7 +32,7 @@ Currently trying my best and expanding my knowledge in scalable backend developm
     <img width="49%" src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/magentaong">
-    <img width="49%" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Python" />
+    <img width="49%" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
 </p>
 
