@@ -29,16 +29,16 @@ Currently trying my best and expanding my knowledge in scalable backend developm
 
 <p align="center">
   <a href="https://github.com/magentaong">
-    <img width="49%" src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/magentaong">
-    <img width="49%" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/magentaong">
-    <img width="98%" src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" />
+    <img height="200" src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" />
   </a>
 </p>
 
