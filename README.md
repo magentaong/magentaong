@@ -1,9 +1,9 @@
 <h1 align="center">Helllooo <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Magenta Ong</h1>
 
 ## 🚀 About Me
-I'm a passionate developer focused on **Full-Stack Web Development** — blending creativity, design, and logic to craft impactful digital experiences.
+I'm a passionate developer focused on **Full-Stack Development** — blending creativity, design, and logic to craft impactful digital experiences.
 
-Currently trying my best and expanding my knowledge in scalable backend development. With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
+Currently trying my best and expanding my knowledge in scalable backend development w/ microservices, as well as brainstorming innovative ways to make mundane tasks faster :). With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
 
 🛠️ **Looking for freelance projects and collaboration opportunities** 
 
