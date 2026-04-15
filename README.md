@@ -13,6 +13,7 @@
 CS & Design student @ SUTD, graduating 2027. I build using computers and design thinking, and enjoy breaking things to understand how they work.
 
 Currently interning, looking for a full-time job, and looking for problems worth solving.
+
 ---
 
 ## Tech Stack
