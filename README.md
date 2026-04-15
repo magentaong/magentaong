@@ -1,61 +1,94 @@
-<h1 align="center">Helllooo <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Magenta Ong</h1>
-
-## 🚀 About Me
-I'm a passionate developer focused on **Full-Stack Development** — blending creativity, design, and logic to craft impactful digital experiences.
-
-Currently trying my best and expanding my knowledge in scalable backend development w/ microservices, as well as brainstorming innovative ways to make mundane tasks faster :). With a background in creative tools like Figma and Adobe Suite, I love building seamless **end-to-end solutions** from design to deployment.
-
-🛠️ **Looking for freelance projects and collaboration opportunities** 
-
----
-
-## 🧠 Tech Stack & Tools
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/magentaong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/magentaong" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-## 📈 GitHub Stats & Activity
+<h1 align="center">
+  Helllooo <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Magenta Ong
+</h1>
 
 <p align="center">
-  <a href="https://github.com/magentaong">
-    <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/magentaong">
-    <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Dart" />
-  </a>
+  <img src="https://media1.tenor.com/m/kqlEI-zeRL4AAAAd/pixelart.gif" width="600" />
+</p>
+
+---
+
+## About Me
+
+CS & Design student @ SUTD, graduating 2027. I build using computers and design thinking, and enjoy breaking things to understand how they work.
+
+Currently interning, looking for a full-time job, and looking for problems worth solving.
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td>
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/></td>
+</tr>
+
+<tr>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36"/></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36"/></td>
+</tr>
+</table>
+
+</td>
+
+<td>
+<img src="https://i.pinimg.com/originals/dd/42/ec/dd42ec4afcd65452b9d17e47cb5fae2a.gif" width="200" />
+</td>
+
+</tr>
+</table>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/magenta-ong-766378307" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/magentaong" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://magentaong.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+📍 Singapore · ✉️ [ongmagenta@gmail.com](mailto:ongmagenta@gmail.com)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api?username=magentaong&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats-blue-chi-17.vercel.app/api/top-langs/?username=magentaong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Dart" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/magentaong">
-    <img height="200" src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" />
-  </a>
+  <img height="200" src="https://streak-stats.demolab.com?user=magentaong&theme=tokyonight&cache_seconds=1800&hide_border=true" />
 </p>
 
-
-
-
-
-
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif" width="1000" />
+</p>
 
 ---
 
-## 📫 Contact Me
-📍 Based in **Singapore**  
-✉️ Email: [ongmagenta@gmail.com](mailto:ongmagenta@gmail.com)  
-💬 Always open to new projects, collaborations, and meaningful conversations!
-
----
-
-⭐ *Thanks for stopping by!* ⭐
+⭐ *Thanks for stopping by, check out more <a href="https://magentaong.vercel.app" target="_blank">here</a>!* ⭐
